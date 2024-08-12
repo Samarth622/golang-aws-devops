@@ -1,4 +1,4 @@
-module github.com/Samarth622/go-lang/aws-ec2
+module github.com/Samarth622/golang-aws-devops/EC2 Instance
 
 go 1.22.6
 
