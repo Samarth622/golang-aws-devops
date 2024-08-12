@@ -1,4 +1,4 @@
-module github.com/Samarth622/go-lang/aws-s3
+module github.com/Samarth622/golang-aws-devops/createS3AndUploadFile
 
 go 1.22.6
 
